@@ -2,8 +2,9 @@
 name = "atp_repo"
 version = "0.1.0"
 edition = "2021"
-description= "Methods to access Data Repositories conforming to the AT Protocol's' repository specification"
+description= "Access Data Repositories conforming to AT Protocol's' repository specification"
 license = "GPL-2.0"
+repository = "https://github.com/shuntingyard/atp_repo/"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
